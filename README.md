@@ -1,3 +1,5 @@
+[![Tests](https://github.com/jduron01/Toy-Calculator/actions/workflows/tests.yml/badge.svg)](https://github.com/jduron01/Toy-Calculator/actions/workflows/tests.yml)
+
 # OCaml Toy Calculator
 
 A simple interpreter for arithmetic expressions.
