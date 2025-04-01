@@ -2,7 +2,7 @@
 
 # OCaml Toy Calculator
 
-A simple interpreter for arithmetic expressions.
+A simple interpreter for arithmetic expressions. Implemented to practice using the OCaml programming language for compiler design.
 
 ## Features
 - Lexer, parser, and AST for math expressions
