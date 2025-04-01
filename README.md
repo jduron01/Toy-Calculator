@@ -9,6 +9,10 @@ A simple interpreter for arithmetic expressions.
 - Support for `+`, `-`, `*`, `/`, and parentheses
 - REPL for interactive evaluation
 
+## Caveats
+- Only integers can be evaluated
+- Program terminates when an error occurs (e.g. division by zero)
+
 ## Build
 ```bash
 opam install dune alcotest
